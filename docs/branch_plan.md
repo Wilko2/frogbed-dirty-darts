@@ -1,0 +1,55 @@
+# FrogBed Branch Plan
+
+- Milestone 00: `milestone-00-freeze-the-project-spine` — Freeze the Project Spine
+- Milestone 01: `milestone-01-fix-import-structure` — Fix Import Structure
+- Milestone 02: `milestone-02-board-model` — Board Model
+- Milestone 03: `milestone-03-ring-and-resolved-dart-validation` — Ring and Resolved Dart Validation
+- Milestone 04: `milestone-04-weight-profile-engine` — Weight Profile Engine
+- Milestone 05: `milestone-05-future-dart-generator` — Future Dart Generator
+- Milestone 06: `milestone-06-manual-visit-input-model` — Manual Visit Input Model
+- Milestone 07: `milestone-07-candidate-generation` — Candidate Generation
+- Milestone 08: `milestone-08-first-play-detection` — First Play Detection
+- Milestone 09: `milestone-09-play-multiplier-table` — Play Multiplier Table
+- Milestone 10: `milestone-10-mult-stacking` — Mult Stacking
+- Milestone 11: `milestone-11-scoring-package-resolver` — Scoring Package Resolver
+- Milestone 12: `milestone-12-best-package-selection` — Best Package Selection
+- Milestone 13: `milestone-13-visit-event-detection` — Visit Event Detection
+- Milestone 14: `milestone-14-full-visit-resolver` — Full Visit Resolver
+- Milestone 15: `milestone-15-leg-state-engine` — Leg State Engine
+- Milestone 16: `milestone-16-terminal-leg-runner` — Terminal Leg Runner
+- Milestone 17: `milestone-17-dirty-dart-content-catalogue` — Dirty Dart Content Catalogue
+- Milestone 18: `milestone-18-dirty-dart-transformation-engine` — Dirty Dart Transformation Engine
+- Milestone 19: `milestone-19-dirty-dart-selection-in-visit` — Dirty Dart Selection in Visit
+- Milestone 20: `milestone-20-character-signatures` — Character Signatures
+- Milestone 21: `milestone-21-in-turn-state-design-lock` — In-Turn State Design Lock
+- Milestone 22: `milestone-22-state-model-code` — State Model Code
+- Milestone 23: `milestone-23-state-resolver` — State Resolver
+- Milestone 24: `milestone-24-next-visit-weight-modifiers-from-state` — Next-Visit Weight Modifiers from State
+- Milestone 25: `milestone-25-coaster-content-catalogue` — Coaster Content Catalogue
+- Milestone 26: `milestone-26-coaster-trigger-engine` — Coaster Trigger Engine
+- Milestone 27: `milestone-27-economy-layer` — Economy Layer
+- Milestone 28: `milestone-28-enemy-model` — Enemy Model
+- Milestone 29: `milestone-29-game-engine` — Game Engine
+- Milestone 30: `milestone-30-bar-node-prototype` — Bar Node Prototype
+- Milestone 31: `milestone-31-shop-reward-draft` — Shop / Reward Draft
+- Milestone 32: `milestone-32-drinks-set-ups-rituals-design-lock` — Drinks, Set-Ups, Rituals Design Lock
+- Milestone 33: `milestone-33-drinks-set-ups-rituals-code` — Drinks / Set-Ups / Rituals Code
+- Milestone 34: `milestone-34-moments-design-lock` — Moments Design Lock
+- Milestone 35: `milestone-35-moment-detection-code` — Moment Detection Code
+- Milestone 36: `milestone-36-meta-currency-stub` — Meta Currency Stub
+- Milestone 37: `milestone-37-brewery-design-lock` — Brewery Design Lock
+- Milestone 38: `milestone-38-brewery-tags-in-content` — Brewery Tags in Content
+- Milestone 39: `milestone-39-first-run-loop` — First Run Loop
+- Milestone 40: `milestone-40-save-load-stub` — Save / Load Stub
+- Milestone 41: `milestone-41-simulation-harness` — Simulation Harness
+- Milestone 42: `milestone-42-play-frequency-report` — Play Frequency Report
+- Milestone 43: `milestone-43-dirty-dart-balance-report` — Dirty Dart Balance Report
+- Milestone 44: `milestone-44-coaster-balance-report` — Coaster Balance Report
+- Milestone 45: `milestone-45-ui-boundary-lock` — UI Boundary Lock
+- Milestone 46: `milestone-46-simple-text-ui-polish` — Simple Text UI Polish
+- Milestone 47: `milestone-47-basic-visual-prototype-decision` — Basic Visual Prototype Decision
+- Milestone 48: `milestone-48-dartboard-renderer-prototype` — Dartboard Renderer Prototype
+- Milestone 49: `milestone-49-first-playable-alpha-checklist` — First Playable Alpha Checklist
+- Milestone 50: `milestone-50-alpha-content-minimum` — Alpha Content Minimum
+- Milestone 51: `milestone-51-explicit-deferred-list` — Explicit Deferred List
+- Milestone 52: `milestone-52-the-big-design-fork` — The Big Design Fork
