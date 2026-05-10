@@ -63,10 +63,19 @@ Before coding, state:
 
 ## Manual check
 
-Write exact commands and expected output here.
+From the repo root, run:
+
+```bash
+python -m pytest
 
 ## Completion notes
 
 - What changed:
+  - Added `core/board.py`.
+  - Added `tests/test_board.py`.
+  - Implemented fixed dartboard order, segment lookup, neighbours, distance, ring multipliers, bull scoring, prime helpers, hemisphere helpers, and score helpers.
 - What remains unsolved:
+  - Hemisphere convention is currently defined as first 10 vs last 10 segments in standard board order. This can be revisited later if the design needs a more visual/geometric split.
+  - ResolvedDart validation and broader scoring integration are deliberately left for Milestone 03.
 - Risks:
+  - Later systems must not duplicate scoring logic; they should reuse these helpers.
